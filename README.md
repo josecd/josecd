@@ -39,12 +39,12 @@
 <h3 align="left">Frameworks</h3>
 <p align="left"> 
 
-  [![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Ionic](https://img.shields.io/badge/-Ionic-blue?style=flat&logo=ionic&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat&logo=nestjs&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![React](https://img.shields.io/badge/-React-white?style=flat&logo=react&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![django](https://img.shields.io/badge/-django-green?style=flat&logo=django&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
-[![Vue.js](https://img.shields.io/badge/-vue-white?style=flat&logo=vue.js&link=https://github.com/BRdhanani)](https://github.com/BRdhanani) 
+  ![Angular](https://img.shields.io/badge/-Angular-red?style=flat&logo=angular)
+![Ionic](https://img.shields.io/badge/-Ionic-blue?style=flat&logo=ionic)
+![NestJS](https://img.shields.io/badge/-Nestjs-red?style=flat&logo=nestjs)
+![React](https://img.shields.io/badge/-React-white?style=flat&logo=react)
+![django](https://img.shields.io/badge/-django-green?style=flat&logo=django)
+![Vue.js](https://img.shields.io/badge/-vue-white?style=flat&logo=vue.js&)
 
 
 </p>
