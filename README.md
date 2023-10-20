@@ -16,7 +16,7 @@
 <br>
 
 - :computer: Me encanta usar el software como solución para cada problema.
-- 😊 Puede ver mas detallado lo que he hecho en esta  [PÁGINA](https://portafoliojosecorderodiaz.web.app).
+- 😊 Puede ver más detallado lo que he hecho en esta [PÁGINA](https://portafoliojosecorderodiaz.web.app).
 - :nerd_face: Siempre aprendiendo cosas nuevas.
 - :thinking: Actualmente estoy abierto a una nueva `oportunidad laboral`, este es [MI CURRICULUM](https://drive.google.com/file/d/1NdjD_CjbZ51_GEC7a3F6qWt4d4McYXoT/view?usp=sharing).
 
