@@ -22,7 +22,10 @@
 
 <br>
 
+## 📦 Mis Packages NPM
 
+
+- 👀 Puede ver más detallado en la siguiente [PÁGINA](https://www.npmjs.com/~joseacd).
 
 
 ## 🤖 Conectate conmigo
