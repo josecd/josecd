@@ -12,7 +12,7 @@ Soy un desarrollador full stack con sólida experiencia en el desarrollo de apli
 - 🌐 **Portafolio:** [Ver mis proyectos](https://portafoliojosecorderodiaz.web.app)
 - 📚 **Aprendizaje continuo:** Siempre actualizándome con las últimas tecnologías
 - 🚀 **Disponibilidad:** Abierto a nuevas oportunidades profesionales
-- 📄 **CV:** [Descargar currículum](https://drive.google.com/file/d/1A-8FBV-MFIx5B8MaVTWKzFyMW-KcVsEU/view?usp=sharing)
+- 📄 **CV:** [Descargar currículum]([https://drive.google.com/file/d/1A-8FBV-MFIx5B8MaVTWKzFyMW-KcVsEU/view?usp=sharing](https://docs.google.com/document/d/1W_RmUixJPnb-SBDeoA5O2meewlB5e0Cv/edit?usp=sharing&ouid=117491384108711876923&rtpof=true&sd=true))
 
 <br>
 
