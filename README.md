@@ -12,8 +12,7 @@ Soy un desarrollador full stack con sólida experiencia en el desarrollo de apli
 - 🌐 **Portafolio:** [Ver mis proyectos](https://portafoliojosecorderodiaz.web.app)
 - 📚 **Aprendizaje continuo:** Siempre actualizándome con las últimas tecnologías
 - 🚀 **Disponibilidad:** Abierto a nuevas oportunidades profesionales
-- 📄 **CV:** [Descargar currículum]([https://drive.google.com/file/d/1A-8FBV-MFIx5B8MaVTWKzFyMW-KcVsEU/view?usp=sharing](https://drive.google.com/file/d/16H_RNdr_3TIk8bF4CESB_DD1i8N_Qf0m/view?usp=sharing)
-
+- 📄 **CV:** [Descargar currículum](https://drive.google.com/file/d/16H_RNdr_3TIk8bF4CESB_DD1i8N_Qf0m/view?usp=sharing)
 <br>
 
 ## 📦 Paquetes NPM
